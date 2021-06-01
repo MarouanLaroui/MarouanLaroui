@@ -7,10 +7,9 @@
 
 - 👨‍💻 Currently working on a Minecraft plugin
 - ⌛ Currently learning Java and to use the Bucket API
-- 📫 How to reach me: marouanlaroui2000@gmail.com 
 <!--
 - 💬 Ask me about ...
-
+- 📫 How to reach me: marouanlaroui2000@gmail.com 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
