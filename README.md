@@ -6,7 +6,7 @@
 -->
 
 - 👨‍💻 Currently working on a Java app and a web application
-- ⌛ Currently learning Angular
+- ⌛ Currently learning Angular && nestjs
 <!--
 - 💬 Ask me about ...
 - 📫 How to reach me: marouanlaroui2000@gmail.com 
