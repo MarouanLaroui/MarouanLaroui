@@ -5,8 +5,8 @@
 **MarouanLaroui/MarouanLaroui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 👨‍💻 Currently working on a Java app and a web application
-- ⌛ Currently learning Angular && nestjs
+- 👨‍💻 Currently working on an IOS app and a web application
+- ⌛ Currently learning SwiftUI
 <!--
 - 💬 Ask me about ...
 - 📫 How to reach me: marouanlaroui2000@gmail.com 
