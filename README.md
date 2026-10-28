@@ -1,15 +1,8 @@
-## Marouan v4.0 🤖
-### Computer science and management student
-### Notable features :
-<!--
-**MarouanLaroui/MarouanLaroui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+# Hey, I'm Marouan 👋
+Full-stack dev based in Montpellier. I love building random things (could be SaaS or bathroom) .
 
-- 👨‍💻 Currently working on an IOS app and a web application
-- ⌛ Currently learning SwiftUI
-<!--
-- 💬 Ask me about ...
-- 📫 How to reach me: marouanlaroui2000@gmail.com 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Things I founded
+- **[Caapse](https://caapse-co.webflow.io)** (2023–2025): auto-subtitling and video editing.
+- **[Sarox](https://sarox.fr)** (2025–2026): white-label coaching app for powerlifting.
+
+SPOILER: Neither became a unicorn
